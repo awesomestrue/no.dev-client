@@ -1,0 +1,7 @@
+# Скопируйте этот файл в config.yaml и укажите путь к папке, куда вы
+# распаковали официальную сборку zapret-discord-youtube.
+#
+# Это должен быть путь к каталогу, где лежат: service.bat, general.bat,
+# папки bin/ и lists/.
+
+zapret_dir: "C:/Users/User/Desktop/no.dev/zapret-discord-youtube-1.10.2"
